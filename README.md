@@ -14,7 +14,7 @@
 Software Engineer with a strong foundation in programming, data structures, and full-stack development. A detail-oriented professional with proven analytical and problem-solving abilities. Passionate about building efficient, scalable applications and eager to contribute to innovative projects in technology-driven organizations.
 
 - **Education:** B.Tech in Computer Science & Engineering, Parul University
-- **Contact:** kathanamistrym13@gmail.com | +91 7046245270
+- **Contact:** kathanamistrym13@gmail.com 
 
 ---
 
